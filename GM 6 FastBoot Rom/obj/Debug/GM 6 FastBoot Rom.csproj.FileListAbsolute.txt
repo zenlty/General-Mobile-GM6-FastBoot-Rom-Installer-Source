@@ -1,0 +1,20 @@
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.exe
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.csprojResolveAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM_6_FastBoot_Rom.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM_6_FastBoot_Rom.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.csproj.GenerateResource.Cache
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.exe
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Stock Rom Project\General Mobile\GM 6 FastBoot Rom\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM_6_FastBoot_Rom.giris_paneli.resources
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.exe.config
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.exe
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\bin\Debug\GM 6 FastBoot Rom.pdb
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.csprojAssemblyReference.cache
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM_6_FastBoot_Rom.Form1.resources
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM_6_FastBoot_Rom.Properties.Resources.resources
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.csproj.GenerateResource.cache
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.csproj.CoreCompileInputs.cache
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.exe
+C:\Users\Shaptick\Desktop\Github\GM 6 FastBoot Rom\GM 6 FastBoot Rom\obj\Debug\GM 6 FastBoot Rom.pdb
